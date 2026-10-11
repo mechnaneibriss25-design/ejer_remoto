@@ -1,2 +1,4 @@
+
 linea 1 cambiada en local
+linea 1 cambiada en remoto
 linea 2 desde remoto 
